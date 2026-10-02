@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/git_카피바라.png" width="170"/>
+<img src="./assets/capybara-fish-header.png" width="100%" />
+
+<br/><br/>
+
+<img src="./assets/capybara-fish-icon.png" width="150" />
 
 <h1>어채은 · EO CHAEEUN</h1>
 
@@ -23,7 +27,7 @@
 
 <p>
   <a href="mailto:fishiseo@gmail.com">Email</a>
-  &nbsp;·&nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/EOCHAEEUN">GitHub</a>
 </p>
 
@@ -35,7 +39,8 @@
 
 ## About Me
 
-경영 전공을 기반으로 **문제 정의 → 서비스 기획 → AI 적용 → 구현 → 검증**까지  
+경영 전공을 기반으로  
+**문제 정의 → 서비스 기획 → AI 적용 → 구현 → 검증**까지  
 전체 흐름을 연결하는 일을 좋아합니다.
 
 - AI 서비스 기획 및 프로젝트 PM
@@ -44,6 +49,8 @@
 - 모델 성능뿐 아니라 실제 서비스에서의 사용 가능성을 중요하게 생각합니다.
 
 <br/>
+
+---
 
 ## Tech Stack
 
@@ -74,12 +81,15 @@
 
 `QLoRA` `Qwen3` `LLM` `Structured Output` `React` `FastAPI`
 
-- MSDS 1~3항 핵심 필드를 고정 JSON으로 추출
-- QLoRA 기반 Fine-tuning 및 Base ↔ Fine-tuned 비교
-- 학습 · 검증 데이터 분리 및 골든셋 구축
-- 원문 근거와 추출 결과의 정합성 검토 구조 설계
+- MSDS 핵심 항목을 고정 JSON 형식으로 추출
+- QLoRA 기반 Fine-tuning
+- Base Model ↔ Fine-tuned Model 비교
+- Train / Validation 데이터 분리 및 골든셋 구축
+- 원문 근거와 추출 결과의 정합성 검토
 - Rule Engine · DB · 검토 화면을 연결한 서비스 구조
-- **Role : PM / Service Planning / Frontend**
+
+**Role**  
+`PM` `Service Planning` `Frontend`
 
 👉 [Repository](https://github.com/EOCHAEEUN/ABO_MSDS)
 
@@ -94,11 +104,13 @@
 `FastAPI` `React` `TypeScript` `PostgreSQL` `RAG`
 
 - 설비 투자비 기반 ROI 분석
-- 분석 결과에 맞는 정부 지원정책 추천
-- 분석 시점의 정책을 Snapshot으로 저장하는 구조 설계
-- 정책 상세 확인 및 신청서 초안 생성 Flow 설계
-- Frontend · Backend 기능 통합 및 QA
-- **Role : PM / Service Planning**
+- 분석 결과 기반 정부 지원정책 추천
+- 분석 시점 정책 Snapshot 저장 구조 설계
+- 정책 상세 조회 및 신청서 초안 생성
+- Frontend / Backend 기능 통합 및 QA
+
+**Role**  
+`PM` `Service Planning`
 
 👉 [Repository](https://github.com/EOCHAEEUN/0.0)
 
@@ -112,12 +124,11 @@
 
 `Next.js` `FastAPI` `WebSocket` `Computer Vision` `Supabase`
 
-- 웹캠 기반 실시간 면접 진행
-- 시선 이탈 · 긴장 표정 · 집중 저하 분석
-- 실시간 피드백과 면접 종료 후 행동 리포트 제공
-- CV 모델과 Frontend / Backend 서비스 연동
-- 팀 프로젝트 서비스 구조 및 기능 설계
-- **Role : PM / AI · Service Integration**
+- 웹캠 기반 실시간 모의면접
+- 시선 이탈 · 긴장 표정 · 집중 상태 분석
+- 실시간 피드백 제공
+- 면접 종료 후 행동 리포트 생성
+- CV 모델과 Frontend / Backend 연동
 
 👉 [Repository](https://github.com/EOCHAEEUN/gg1th_team2_self_fit)
 
@@ -129,9 +140,10 @@
 
 ### 🔎 RAG / LangChain
 
-LLM 서비스 개발을 위한 RAG · LangChain 실습과 실험 기록입니다.
+LLM 서비스 개발을 위한  
+RAG · LangChain 실습 및 실험 기록
 
-`RAG` `LangChain` `Python`
+`Python` `LangChain` `RAG`
 
 👉 [Repository](https://github.com/EOCHAEEUN/rag_ex)
 
@@ -156,10 +168,12 @@ LLM 서비스 개발을 위한 RAG · LangChain 실습과 실험 기록입니다
 
 <div align="center">
 
-<img src="./assets/capybara-footer.png" width="155"/>
+<img src="./assets/capybara-fish-icon.png" width="90" />
 
 <br/>
 
-<sub>keep swimming, keep building.</sub>
+<sub>
+keep swimming, keep building.
+</sub>
 
 </div>
