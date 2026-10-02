@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="./assets/capybara-fish.png" width="180"/>
+<img src="./assets/git_카피바라" width="165"/>
 
 <h1>어채은</h1>
 
-<h3>AI Service Planner & Developer</h3>
-
 <p>
-AI를 모델에서 끝내지 않고,<br/>
-실제 서비스까지 연결하는 과정을 좋아합니다.
+<b>AI Service Planner & Developer</b>
 </p>
 
 <p>
-AI Service · LLM · RAG · Fine-tuning · Product
+모델을 만드는 것에서 끝나지 않고<br/>
+실제로 사용할 수 있는 AI 서비스를 고민합니다.
 </p>
+
+<br/>
+
+<code>AI Service</code>
+<code>LLM</code>
+<code>RAG</code>
+<code>Fine-tuning</code>
+<code>Product</code>
 
 </div>
