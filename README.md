@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EOCHAEEUN/EOCHAEEUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/capybara-fish.png" width="180"/>
 
-Here are some ideas to get you started:
+<h1>어채은</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>AI Service Planner & Developer</h3>
+
+<p>
+AI를 모델에서 끝내지 않고,<br/>
+실제 서비스까지 연결하는 과정을 좋아합니다.
+</p>
+
+<p>
+AI Service · LLM · RAG · Fine-tuning · Product
+</p>
+
+</div>
