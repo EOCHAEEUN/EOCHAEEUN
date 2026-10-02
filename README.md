@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/<img width="144" height="35" alt="image" src="https://github.com/user-attachments/assets/d3171b49-bb85-46f1-ac4b-b838f957d96e" />
-" width="165"/>
+<img src="./assets/git_카피바라.png" width="165"/>
 
 <h1>어채은</h1>
 
